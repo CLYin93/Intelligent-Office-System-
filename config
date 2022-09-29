@@ -1,0 +1,7 @@
+Host yinServer
+  Hostname  52.203.29.172
+  User ubuntu
+  IdentityFile C:\Users\user\Desktop\aws\YinServerAws.pem
+
+
+  C:\Users\user\Desktop\aws>ssh -i"C:\Users\user\Desktop\aws\YinServerAws.pem" ubuntu@52.203.29.172

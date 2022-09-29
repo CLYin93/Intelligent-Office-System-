@@ -1,0 +1,26 @@
+.info {
+	background-color: #ffffff;
+	margin: 5px;
+	padding: 20px;
+}
+
+h2 {
+	color: #ffffff;
+}
+
+input {
+	width: 80%;
+}
+
+.cursearch {
+	position: sticky;
+}
+
+.cur {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+img {
+	width: 100px;
+}
